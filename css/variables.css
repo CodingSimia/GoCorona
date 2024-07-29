@@ -1,0 +1,18 @@
+:root {
+    --main-text-color: #616161;
+    --titles-text-color: #000;
+    --button-text-color: #fcfdfe;
+    --blue-span-text-color: #4285F4;
+    --pink-span-text-color: #EC5863;
+
+    --background-button: #ec5863;
+    --background-blue-button: #4285F4;
+    --background-button-hover: #d04a56;
+    --background-blue-button-hover: #326acb;
+
+    --background-burger-menu: #cdaaaa;
+    --background-hero: #FAFBFD;
+    --background-basic: #fff;
+    --background-stay-safe-media: #ec5863;
+    --background-color-decor: #ec5863;
+}

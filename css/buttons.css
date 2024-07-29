@@ -1,0 +1,26 @@
+.button {
+    display: inline-block;
+    font-family: Raleway;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 1px;
+    color: var(--button-text-color);
+    padding: 14px 40px;
+    border-radius: 5px;
+    background-color: var(--background-button);
+    transition: background-color 0.3s ease 0s;
+}
+
+.button:hover {
+    background-color: var( --background-button-hover);
+}
+
+.button_blue {
+    background-color: var(--background-blue-button);
+}
+
+.button_blue:hover {
+    background-color: var(--background-blue-button-hover);
+}
